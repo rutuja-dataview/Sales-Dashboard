@@ -23,7 +23,7 @@ North America and Europe dominate sales and delivery activity.
 Other regions show growth potential, suggesting opportunities for market expansion.
 Regional delivery patterns align closely with sales volume.
 
-5) Shipping & Logistics Insights :
+6) Shipping & Logistics Insights :
 Standard Class shipping is the most used and cost-efficient shipping mode.
 Average delivery time remains stable at around 5.2 days, indicating reliable logistics performance.
 July shows the fastest average delivery, while minor delays appear during high-demand months.
